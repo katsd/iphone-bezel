@@ -15,6 +15,7 @@ let package = Package(
     targets: [
         .target(
             name: "iPhoneBezel",
-            dependencies: []),
+            dependencies: [],
+            path: "Sources"),
     ]
 )
